@@ -1,0 +1,86 @@
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\appsettings.Development.json
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\appsettings.json
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\TestApi.exe
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\TestApi.deps.json
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\TestApi.runtimeconfig.json
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\TestApi.dll
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\TestApi.pdb
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\TestApi.csproj.AssemblyReference.cache
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\TestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\TestApi.AssemblyInfoInputs.cache
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\TestApi.AssemblyInfo.cs
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\TestApi.csproj.CoreCompileInputs.cache
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\TestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\TestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\staticwebassets\msbuild.TestApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\staticwebassets\msbuild.build.TestApi.props
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestApi.props
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestApi.props
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\scopedcss\bundle\TestApi.styles.css
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\TestApi.csproj.CopyComplete
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\TestApi.dll
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\refint\TestApi.dll
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\TestApi.pdb
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\TestApi.genruntimeconfig.cache
+C:\zAdGr\UNIDAD 3\TestApi\obj\Debug\net7.0\ref\TestApi.dll
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\Humanizer.dll
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\MySqlConnector.dll
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\zAdGr\UNIDAD 3\TestApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\appsettings.json
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\TestApi.exe
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\TestApi.deps.json
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\TestApi.runtimeconfig.json
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\TestApi.dll
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\TestApi.pdb
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\TestApi.csproj.AssemblyReference.cache
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\TestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\TestApi.AssemblyInfoInputs.cache
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\TestApi.AssemblyInfo.cs
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\TestApi.csproj.CoreCompileInputs.cache
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\TestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\TestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\staticwebassets\msbuild.TestApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\staticwebassets\msbuild.build.TestApi.props
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestApi.props
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestApi.props
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\scopedcss\bundle\TestApi.styles.css
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\TestApi.csproj.CopyComplete
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\TestApi.dll
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\refint\TestApi.dll
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\TestApi.pdb
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\TestApi.genruntimeconfig.cache
+C:\Users\CA3\Documents\Trabajos\Unidad2\TestApi\obj\Debug\net7.0\ref\TestApi.dll
